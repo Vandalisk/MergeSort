@@ -1,2 +1,3 @@
 ﻿  MergeSort.cpp
+c:\users\ilya\documents\visual studio 2012\projects\mergesort\mergesort\mergesort.cpp(55): warning C4101: result: неиспользованная локальная переменная
   MergeSort.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2012\Projects\MergeSort\Debug\MergeSort.exe
