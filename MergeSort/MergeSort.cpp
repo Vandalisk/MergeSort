@@ -59,7 +59,7 @@ int main()
 		a[i] = rand() % 100;
 		cout << a[i] << " ";
 	}
-	MergeSort(a, 0, n);
+	MergeSort(a, 0, n - 1);
 	cout << endl;
 	for(int i = 0; i < n; i++){
 		cout << a[i] << " ";
